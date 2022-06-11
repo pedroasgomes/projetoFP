@@ -936,3 +936,4 @@ def simula_ecossistema(ficheiro,inteiro,booleano):
                   " (Gen. "+str(n)+")\n"+\
                   (prado_para_str(prado)))  
     return((obter_numero_predadores(prado)),(obter_numero_presas(prado)))
+
